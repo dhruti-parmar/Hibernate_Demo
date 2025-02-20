@@ -33,4 +33,8 @@ public class Laptop {
 	public void setStudent(List<Student> student) {
 		this.student = student;
 	}
+	@Override
+	public String toString() {
+		return "Laptop [id=" + id + ", lname=" + lname + ", student=" + student + "]";
+	}
 }
