@@ -7,7 +7,6 @@ import org.hibernate.cfg.Configuration;
 import com.hibernate.model.Laptop;
 import com.hibernate.model.Student;
 
-
 /**
  * Hello world!
  *
@@ -15,7 +14,7 @@ import com.hibernate.model.Student;
 
 public class App
 {
-    public static void main( String[] args )
+    public static void main(String[] args )
     {
 //        User user = new User();
 //        UserName uname = new UserName();
